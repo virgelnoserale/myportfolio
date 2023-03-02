@@ -23,12 +23,17 @@
     padding-top: 5px;
 }
 
+#virgel {
+    color: darkviolet;
+    font-weight: bolder;
+}
+
 #myimg {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-    padding-top: 5rem;
+    padding-top: 4.5rem;
 }
 
 #fb-font {
@@ -37,10 +42,16 @@
 
 .nav-link {
     color: darkviolet;
-    font-size: 1.5rem;
+    font-size: 1rem;
 }
 
 .nav-link:hover {
-    color: violet;
+    color:white;
+    background-image: linear-gradient(violet, darkviolet);
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
 }
 
