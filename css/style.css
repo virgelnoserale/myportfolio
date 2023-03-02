@@ -1,0 +1,28 @@
+
+#con-main {
+    text-align: center;
+}
+
+.sec-frontend {
+    padding-top: 6rem;
+    padding-bottom: 0;
+    font-size: 2.5rem;
+    font-weight: bolder;
+    color: darkviolet;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.sec-hello {
+    font-size: 1.5rem;
+    color: rgb(56, 56, 56);
+    font-family: 'Roboto', sans-serif;
+    padding-top: 5px;
+}
+
+#myimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    padding-top: 5rem;
+}
