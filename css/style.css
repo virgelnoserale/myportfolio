@@ -3,6 +3,10 @@
     text-align: center;
 }
 
+#logo {
+    width: 80px;
+}
+
 .sec-frontend {
     padding-top: 6rem;
     padding-bottom: 0;
@@ -26,3 +30,17 @@
     width: 70%;
     padding-top: 5rem;
 }
+
+#fb-font {
+    width: 100px;
+}
+
+.nav-link {
+    color: darkviolet;
+    font-size: 1.5rem;
+}
+
+.nav-link:hover {
+    color: violet;
+}
+
