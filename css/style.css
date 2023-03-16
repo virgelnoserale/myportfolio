@@ -8,7 +8,7 @@
 }
 
 .sec-frontend {
-    padding-top: 6rem;
+    padding-top: 3.5rem;
     padding-bottom: 0;
     font-size: 2.5rem;
     font-weight: bolder;
@@ -32,8 +32,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
-    padding-top: 4.5rem;
+    width:500px;
+    padding-top: 4rem;
 }
 
 #fb-font {
@@ -43,6 +43,7 @@
 .nav-link {
     color: darkviolet;
     font-size: 1rem;
+    
 }
 
 .nav-link:hover {
@@ -55,3 +56,40 @@
     -o-border-radius: 5px;
 }
 
+.under {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 4rem;
+}
+
+
+/*  portfolio */
+
+#portfolio, #about {
+    margin: 4rem;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+}
+
+/*  footer */
+#footer {
+    background-color: black;
+    color: blueviolet;
+    text-align: center;
+    padding: 5rem;
+}
+
+.backToTop {
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+}
+.backToTop:hover {
+    color: aqua;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 1px aqua solid;
+    padding: 5px;
+}
